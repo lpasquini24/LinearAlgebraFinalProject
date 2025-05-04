@@ -1,2 +1,2 @@
 # LinearAlgebraFinalProject
-Made by Luca Pasquini and Astrella Brown
+Made by Luca Pasquini and Connor Brown
